@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m amirhossein ghorbani 
+- I've been coding since 2019 and I'm front-end developer , More precisely i am into react . 
+- I've got experienced in various technologies such as nextjs, graphql and recently typescript . 
+- nowadays I'm looking for remote job due to the critical circumstances 
+- anyway make long story short , you can keep in touch with me via email & linkedin
